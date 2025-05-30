@@ -12,26 +12,20 @@ To analyze and extract meaningful insights from the content catalog of a major O
 🧰 Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Google Colab
+
 Kaggle Dataset
 
 🧪 Key Exploratory Tasks
 
-Data Cleaning:
+Data Cleaning: Handled missing values: categorical fields filled with Unknown, numeric fields filled with 0
 
-Handled missing values: categorical fields filled with Unknown, numeric fields filled with 0
+Feature Engineering: Unnested multi-valued fields (cast, listed_in) using .explode()
 
-Feature Engineering:
+Temporal Analysis: Distribution and trends in content release years
 
-Unnested multi-valued fields (cast, listed_in) using .explode()
-
-Temporal Analysis:
-
-Distribution and trends in content release years
-
-Content Categorization:
-
-Genre-based insights
+Content Categorization: Genre-based insights
 
 Country-wise distribution of shows
 
