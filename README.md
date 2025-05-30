@@ -1,11 +1,13 @@
 # Exploratory-Data-Analysis-on-Streaming-Platform-Dataset
 
 📺 OTT Streaming Platform Data Exploration
-- This repository contains exploratory data analysis and basic feature engineering performed on an OTT streaming platform dataset. The analysis aims to uncover content trends, user preferences, and platform strategies by transforming, cleaning, and visualizing the data.
+
+This repository contains exploratory data analysis and basic feature engineering performed on an OTT streaming platform dataset. The analysis aims to uncover content trends, user preferences, and platform strategies by transforming, cleaning, and visualizing the data.
 
 
 📌 Objective
-- To analyze and extract meaningful insights from the content catalog of a major OTT platform, focusing on trends in genres, release years, cast diversity, and country-wise content production.
+
+To analyze and extract meaningful insights from the content catalog of a major OTT platform, focusing on trends in genres, release years, cast diversity, and country-wise content production.
 
 🧰 Tools & Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn)
